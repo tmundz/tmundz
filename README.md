@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tmundz
-- 👀 I’m interested in learning Systems programming, embedded systems, and database/programming.
+- 👀 I’m interested in learning kernel, driver and embedded systems development.
 - 🌱 I’m currently in University studying com sci
 - 💞️ I’m looking to collaborate on different projects
 
