@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tmundz
-- 👀 I’m interested in learning kernel, driver and embedded systems development.
+- 👀 I’m interested in learning secuirty, kernel, driver and embedded systems development.
 - 🌱 I’m currently in University studying comp sci
 - 💞️ I’m looking to collaborate on different projects
 
