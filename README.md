@@ -1,3 +1,6 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tmundz)](https://github.com/anuraghazra/github-readme-stats)
+
+
 - 👋 Hi, I’m @tmundz
 - 👀 I’m interested in learning secuirty, kernel, driver and embedded systems development.
 - 🌱 I’m currently in University studying computer science
