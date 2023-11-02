@@ -1,4 +1,4 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tmundz&theme=tokyonight)
+
 
 
 - 👋 Hi, I’m @tmundz
